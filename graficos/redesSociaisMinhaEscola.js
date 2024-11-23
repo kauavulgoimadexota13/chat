@@ -1,4 +1,3 @@
-
 import { criarGrafico, getCSS, incluirTexto } from "./common.js"
 
 async function redesSociaisFavoritasMinhaEscola() {
